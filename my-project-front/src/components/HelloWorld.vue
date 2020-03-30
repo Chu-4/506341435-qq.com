@@ -1,6 +1,6 @@
 <template>
     <div class="test">
-        <button type="button" @click="getJson">从后端取json</button>
+        <button type="button" @click="getJson">从后端取jsonssss</button>
         <div class="showJson">{{json}}</div>
     </div>
 </template>
